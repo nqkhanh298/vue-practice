@@ -1,4 +1,4 @@
-# practice-prj
+# vue practice project
 
 > A Vue.js project
 
